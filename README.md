@@ -15,7 +15,7 @@
 - GIS
 
 ## 🔭 Current Projects
-- [Diabetes Prediction using ML](...)
+- [Diabetes Prediction using ML](https://github.com/Presidor/Diabetes-Prediction-using-ML)
 - More projects coming soon!
 
 ## 🌱 Currently Learning
