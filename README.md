@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Chinonso Athanasius
 
-<!--
-**Presidor/Presidor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Graduate in Geological Science
+- 🤖 Applied AI & Data Science enthusiast
+- 🌍 Passionate about Data Science & Machine Learning
+- 📊 Skilled in Python, SQL, Machine Learning, and Data Analysis
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python
+- SQL
+- Machine Learning
+- Tableau
+- Excel
+- GIS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- [Diabetes Prediction using ML](...)
+- More projects coming soon!
+
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Data Engineering
+- AI applications
+
+## 📫 Contact Me
+- Email: chinonsoathanasius80@gmail.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chinonso-athanasius-278655203/)
