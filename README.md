@@ -16,6 +16,7 @@
 
 ## 🔭 Current Projects
 - [Diabetes Prediction using ML](https://github.com/Presidor/Diabetes-Prediction-using-ML)
+- [Water Potability Prediction](https://github.com/Presidor/water-potability-prediction)
 - More projects coming soon!
 
 ## 🌱 Currently Learning
