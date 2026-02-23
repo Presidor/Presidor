@@ -17,7 +17,7 @@
 ## 🔭 Current Projects
 - [Diabetes Prediction using ML](https://github.com/Presidor/Diabetes-Prediction-using-ML)
 - [Water Potability Prediction](https://github.com/Presidor/water-potability-prediction)
-- [Nigeria House Prediction using ML](...)
+- [Nigeria House Prediction using ML](https://github.com/Presidor/nigeria-house-price-prediction-ml)
 - More projects coming soon!
 
 ## 🌱 Currently Learning
