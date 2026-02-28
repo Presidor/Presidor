@@ -18,6 +18,7 @@
 - [Diabetes Prediction using ML](https://github.com/Presidor/Diabetes-Prediction-using-ML)
 - [Water Potability Prediction](https://github.com/Presidor/water-potability-prediction)
 - [Nigeria House Prediction using ML](https://github.com/Presidor/nigeria-house-price-prediction-ml)
+- [Gallstone Disease Prediction](https://github.com/Presidor/gallstone-disease-prediction)
 - More projects coming soon!
 
 ## 🌱 Currently Learning
