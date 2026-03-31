@@ -1,16 +1,16 @@
 # Hi 👋, I'm Chinonso Athanasius
 
 ## 🚀 About Me
-- 🎓 Graduate in Geological Science
-- 🤖 Applied AI & Data Science enthusiast
+- 🎓 Graduate in Geological Sciences
+- 🤖 Data Analyst & Data Science Professional
 - 🌍 Passionate about Data Science & Machine Learning
-- 📊 Skilled in Python, SQL, Machine Learning, and Data Analysis
+- 📊 Skilled in Excel, SQL, Python, Machine Learning and AI.
 
 ## 🛠️ Tech Stack
 - Python
 - SQL
 - Machine Learning
-- Tableau
+- Powerbi
 - Excel
 - GIS
 
