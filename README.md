@@ -4,7 +4,7 @@
 - 🎓 Graduate in Geological Sciences
 - 🤖 Data Analyst & Data Science Professional
 - 🌍 Passionate about Data Science & Machine Learning
-- 📊 Skilled in Excel, SQL, Python, Machine Learning and AI.
+- 📊 Skilled in Excel, SQL, Python, PowerBi and Machine Learning.
 
 ## 🛠️ Tech Stack
 - Python
@@ -19,6 +19,7 @@
 - [Water Potability Prediction](https://github.com/Presidor/water-potability-prediction)
 - [Nigeria House Prediction using ML](https://github.com/Presidor/nigeria-house-price-prediction-ml)
 - [Gallstone Disease Prediction](https://github.com/Presidor/gallstone-disease-prediction)
+- [Reservoir Well Performance Analysis](https://github.com/Presidor/Reservoir-Well-Performance-Analysis)
 - More projects coming soon!
 
 ## 🌱 Currently Learning
