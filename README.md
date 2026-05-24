@@ -20,6 +20,7 @@
 - [Nigeria House Prediction using ML](https://github.com/Presidor/nigeria-house-price-prediction-ml)
 - [Gallstone Disease Prediction](https://github.com/Presidor/gallstone-disease-prediction)
 - [Reservoir Well Performance Analysis](https://github.com/Presidor/Reservoir-Well-Performance-Analysis)
+- [Restuarant Tip Analysis](https://github.com/Presidor/Restaurant-Tip-Analysis)
 - More projects coming soon!
 
 ## 🌱 Currently Learning
