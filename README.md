@@ -21,6 +21,7 @@
 - [Gallstone Disease Prediction](https://github.com/Presidor/gallstone-disease-prediction)
 - [Reservoir Well Performance Analysis](https://github.com/Presidor/Reservoir-Well-Performance-Analysis)
 - [Restuarant Tip Analysis](https://github.com/Presidor/Restaurant-Tip-Analysis)
+- [Geothermal Heating & Cooling System](https://github.com/Presidor/Geothermal-Heating-Cooling-System-Assessment)
 - More projects coming soon!
 
 ## 🌱 Currently Learning
